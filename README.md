@@ -1,4 +1,4 @@
-# Jannat's Portfolio
+# Keep-going Portfolio
 
 A cinematic, interactive, and visually stunning portfolio website designed to showcase creativity and personality. This project leverages modern web technologies and animation libraries to create an immersive user experience.
 
